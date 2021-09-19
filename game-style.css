@@ -1,0 +1,49 @@
+
+body {
+    background-color: rgb(66, 66, 66);
+}
+.game-board {
+    background-color: rgb(252, 207, 252);
+    width: 800px;
+    height:500px;
+    margin: auto auto;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+h1{
+    color: rgb(255, 0, 0);
+    text-shadow: black;
+    -webkit-text-stroke: 1px black;
+    padding-top: 10px;
+}
+table {
+    height: 100px;
+    width: 600px;
+    margin: auto auto;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+    outline: thick dotted rgb(255, 251, 0);
+    font-style: inherit;
+    -webkit-text-stroke: 1px black;
+    tab-size: 5px;
+}
+img {
+    height: 120px;
+    width: 120px;
+    padding: 10px 10px;
+    padding-top: 10px;
+}
+button {
+    height: 35px;
+    width: auto;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+}
+.restart{
+    padding-top: 20px;
+}
